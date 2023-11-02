@@ -9,9 +9,9 @@ A highly organized individual who tries to balance education and daily life well
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOH-Shafizadegan&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOH-Shafizadegan&hide_border=true&layout=compact&langs_count=10&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOH-Shafizadegan&hide_border=true&count_private=true&layout=compact&langs_count=10&theme=cobalt"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOH-Shafizadegan&hide_border=true&layout=compact&theme=cobalt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOH-Shafizadegan&hide_border=true&count_private=true&layout=compact&theme=cobalt" />
 
 </p>
 
