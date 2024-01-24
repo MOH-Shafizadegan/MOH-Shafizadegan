@@ -1,10 +1,7 @@
 # About Me
 ## Hi! This is Mohammad Hossein Shafizadegan!
 
-Passionate and creative **Electrical Engineering** student from the Sharif University of Technology, majoring in **bioelectric**.
-My outgoing personality and dedication to learning have helped me to seek knowledge about new, high technologies related to electrical engineering.
-A highly organized individual who tries to balance education and daily life well.
-
+I am a passionate and creative **electrical** engineering student from **Sharif** University of Technology, where I live in Tehran. I have a keen interest in exploring new and high technologies related to electrical engineering, such as **neuroscience, biomedical engineering, artificial intelligence, and machine learning**. I am an outgoing person who enjoys learning new things and solving challenging problems.
 <p align=center>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOH-Shafizadegan&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" />
