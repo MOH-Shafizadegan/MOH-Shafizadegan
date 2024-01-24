@@ -1,7 +1,7 @@
 # About Me
 ## Hi! This is Mohammad Hossein Shafizadegan!
 
-Passionate and creative **Electrical Engineering** student from the Sharif University of Technology majoring in **bioelectric**.
+Passionate and creative **Electrical Engineering** student from the Sharif University of Technology, majoring in **bioelectric**.
 My outgoing personality and dedication to learning have helped me to seek knowledge about new, high technologies related to electrical engineering.
 A highly organized individual who tries to balance education and daily life well.
 
